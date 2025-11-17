@@ -1,1 +1,1 @@
-# SQL-Data-Cleaning-Project
+# SQL-Data-Cleaning-Project - Global Layoffs Dataset
